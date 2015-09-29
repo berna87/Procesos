@@ -1,0 +1,37 @@
+
+Conexiones activas
+
+  Proto  Direcci¢n local        Direcci¢n remota       Estado
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49156          0.0.0.0:0              LISTENING
+  TCP    192.168.17.53:139      0.0.0.0:0              LISTENING
+  TCP    192.168.17.53:49535    198.41.30.198:80       TIME_WAIT
+  TCP    192.168.17.53:49536    198.41.30.200:443      CLOSE_WAIT
+  TCP    192.168.56.1:139       0.0.0.0:0              LISTENING
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:49152             [::]:0                 LISTENING
+  TCP    [::]:49153             [::]:0                 LISTENING
+  TCP    [::]:49154             [::]:0                 LISTENING
+  TCP    [::]:49155             [::]:0                 LISTENING
+  TCP    [::]:49156             [::]:0                 LISTENING
+  TCP    [::1]:49190            [::]:0                 LISTENING
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:56517        *:*                    
+  UDP    192.168.17.53:137      *:*                    
+  UDP    192.168.17.53:138      *:*                    
+  UDP    192.168.17.53:1900     *:*                    
+  UDP    192.168.56.1:137       *:*                    
+  UDP    192.168.56.1:138       *:*                    
+  UDP    192.168.56.1:1900      *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:56516            *:*                    
+  UDP    [fe80::5d2c:fa15:2912:662d%11]:1900  *:*                    
+  UDP    [fe80::b5ad:b23f:fe48:1bee%18]:1900  *:*                    
